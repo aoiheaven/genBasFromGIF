@@ -15,7 +15,7 @@ Pure python based
 ## Instructions
 1. 更替assets下client.gif为你自己的设定GIF文件，名字保持client.gif不变.
 2. 直接执行genBasFromGIF.py
-3. 将会在以下目录中得到所涉及到的所有中间产物以及输出文件.
+3. 将会在以下目录中得到所涉及到的所有中间产物以及输出文件.\
 ├─ascii_txt => 用于存放每一帧的字符画\
 ├─assets => 输入文件，即GIF\
 ├─<font color=green>**bas_out => 用于存放BAS文件**</font>\
