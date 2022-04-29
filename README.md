@@ -4,9 +4,9 @@
 Pure python based
 基于Python > 3.7搭建的工作流程.\
 用于通过GIF动画文件生成对应的BAS(Bilibili Animation Script)文件.\
+\
 目标是直接复制粘贴bas_out中的client.bas到bilibili视频中去，实现如下特殊弹幕效果：\
-[BAS自用预览纯黑屏 - 晓之花 + 蛋之花](https://www.bilibili.com/video/BV1eS4y1a7g8)
-![晓之花GIF的BAS样例](./example_bas.gif "晓之花GIF的BAS样例")
+[![晓之花GIF的BAS样例](./example_bas.gif "晓之花GIF的BAS样例")](https://www.bilibili.com/video/BV1eS4y1a7g8)
 
 ## Installation
 1. Ensure Python3.7+ Install Done
